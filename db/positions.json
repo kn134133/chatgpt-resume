@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Full Stack Web Developer",
+    "company": "ABC Company",
+    "location": "New York City",
+    "description": "We are looking for a full stack web developer to join our team. The ideal candidate will have experience with JavaScript, React, Node.js, HTML, and CSS. You will be responsible for developing and maintaining our company's website and working closely with our marketing team to ensure that our website is user-friendly and engaging. This is a full-time position with competitive salary and benefits."
+  },
+  {
+    "id": 2,
+    "title": "Mobile App Developer",
+    "company": "XYZ Agency",
+    "location": "San Francisco",
+    "description": "We are seeking a mobile app developer to create innovative and engaging iOS and Android applications for our clients. The ideal candidate will have experience with Swift, Java, and React Native. You will be responsible for the entire app development lifecycle, including design, development, testing, and deployment. This is a full-time position with competitive salary and benefits."
+  }
+]

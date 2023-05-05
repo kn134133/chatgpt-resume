@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "title": "Full Stack Web Developer",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "HTML",
+      "CSS"
+    ],
+    "experience": [
+      {
+        "position": "Web Developer",
+        "company": "ABC Company",
+        "start_date": "Jan 2018",
+        "end_date": "Present",
+        "description": "Developed and maintained the company's website using React and Node.js"
+      },
+      {
+        "position": "Junior Web Developer",
+        "company": "XYZ Agency",
+        "start_date": "Jun 2016",
+        "end_date": "Jan 2018",
+        "description": "Assisted in the development of client websites using JavaScript, HTML, and CSS"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "title": "Mobile App Developer",
+    "skills": [
+      "Swift",
+      "Java",
+      "React Native",
+      "iOS",
+      "Android"
+    ],
+    "experience": [
+      {
+        "position": "Mobile App Developer",
+        "company": "123 Mobile",
+        "start_date": "Jul 2017",
+        "end_date": "Present",
+        "description": "Developed and maintained the company's iOS and Android apps using Swift and Java"
+      },
+      {
+        "position": "Junior Mobile App Developer",
+        "company": "456 Agency",
+        "start_date": "Jan 2016",
+        "end_date": "Jul 2017",
+        "description": "Assisted in the development of client mobile apps using React Native"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "title": "Data Scientist",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Data Analysis"
+    ],
+    "experience": [
+      {
+        "position": "Data Scientist",
+        "company": "ABC Analytics",
+        "start_date": "Sep 2018",
+        "end_date": "Present",
+        "description": "Analyzed large datasets using Python and SQL to provide insights for clients"
+      },
+      {
+        "position": "Data Analyst",
+        "company": "XYZ Consulting",
+        "start_date": "Jan 2017",
+        "end_date": "Sep 2018",
+        "description": "Analyzed data for clients using SQL and created reports to communicate findings"
+      }
+    ]
+  }
+]
